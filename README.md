@@ -1,4 +1,4 @@
-Hello! I’m a Computer Engineer at the University of Texas at Austin. My interests are in self driving cars, high performance C/C++, and embedded software development. I focus on low-level systems programming in C/C++ and Python for implementing ML models, testing, and scripting.
+Hello! I’m a Computer Engineer at the University of Texas at Austin. My interests are in self driving cars, high performance C/C++, and embedded software development. I focus on low-level systems programming in C/C++ and Python for implementing machine learning models, testing, and scripting.
 When not working, I enjoy playing soccer, making and listening to music, lifting, running, and cooking.
 
 <!--
